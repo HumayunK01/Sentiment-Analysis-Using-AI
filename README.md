@@ -23,7 +23,7 @@ Sentiment Analysis Using AI is a project that leverages artificial intelligence 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/sentiment-analysis-ai.git
+    git clone https://github.com/HumayunK01/sentiment-analysis-ai.git
     ```
 
 2. Navigate to the project directory:
